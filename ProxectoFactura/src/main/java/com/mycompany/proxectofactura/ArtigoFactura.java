@@ -1,4 +1,4 @@
-package com.mycompany.proxectofactura1;
+package com.mycompany.proxectofactura;
 /**
 * Datos do artigo dunha factura
 * @author saraf */
