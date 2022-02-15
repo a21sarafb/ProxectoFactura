@@ -1,5 +1,7 @@
 package com.mycompany.proxectofactura1;
-/*@author saraf*/
+/**
+* Datos do artigo dunha factura
+* @author saraf */
 public class ArtigoFactura {
     
     private String id;
